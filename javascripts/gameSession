@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="968" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\gloop.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\displayObjects.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\player.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\sound.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\sprite.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\StateManager.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="552" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\jwinkler\Desktop\canvas\javascripts\util.js" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
